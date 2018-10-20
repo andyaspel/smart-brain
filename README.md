@@ -1,4 +1,5 @@
 # SmartBrain - v2
+
 Final project for Udemy course
 
 1. Clone this repo
